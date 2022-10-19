@@ -1,4 +1,4 @@
-# abuzercord app
+# Abuzercord App
 Realtime chat app with websockets using Node.js, Express and Socket.io
 You can try this website: https://github.com/bradtraversy/chatcord
 ## Usage
