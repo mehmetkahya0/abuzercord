@@ -12,3 +12,4 @@ Go to localhost:3000
 
 
 NOTE: I use https://github.com/bradtraversy/chatcord/ this repo for backend.
+Language is Turkish for now. English language will be add (WIP)
